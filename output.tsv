@@ -31,7 +31,7 @@ Nightmare Void	Golgari	Black	Uncommon	Ravnica: City of Guilds
 Ribbons of Night	Dimir	Black	Uncommon	Ravnica: City of Guilds
 Roofstalker Wight	Dimir	Black	Common	Ravnica: City of Guilds
 Shred Memory	Dimir	Black	Common	Ravnica: City of Guilds
-Stinkweed Imp	Golgari	Black	Common,Common	Ravnica: City of Guilds	Modern Masters
+Stinkweed Imp	Golgari	Black	Common,Common	Ravnica: City of Guilds,Modern Masters
 Vigor Mortis	Golgari	Black	Uncommon	Ravnica: City of Guilds
 Cleansing Beam	Boros	Red	Uncommon	Ravnica: City of Guilds
 Flash Conscription	Boros	Red	Uncommon	Ravnica: City of Guilds
@@ -45,9 +45,9 @@ Elves of Deep Shadow	Golgari	Green	Common	Ravnica: City of Guilds
 Gather Courage	Selesnya	Green	Common	Ravnica: City of Guilds
 Golgari Brownscale	Golgari	Green	Common	Ravnica: City of Guilds
 Golgari Grave-Troll	Golgari	Green	Rare	Ravnica: City of Guilds
-Greater Mossdog	Golgari	Green	Common,Common	Ravnica: City of Guilds	Modern Masters
-Life from the Loam	Golgari	Green	Rare,Rare	Ravnica: City of Guilds	Modern Masters
-Moldervine Cloak	Golgari	Green	Uncommon,Common	Ravnica: City of Guilds	Modern Masters
+Greater Mossdog	Golgari	Green	Common,Common	Ravnica: City of Guilds,Modern Masters
+Life from the Loam	Golgari	Green	Rare,Rare	Ravnica: City of Guilds,Modern Masters
+Moldervine Cloak	Golgari	Green	Uncommon,Common	Ravnica: City of Guilds,Modern Masters
 Overwhelm	Selesnya	Green	Uncommon	Ravnica: City of Guilds
 Rolling Spoil	Golgari	Green	Uncommon	Ravnica: City of Guilds
 Root-Kin Ally	Selesnya	Green	Uncommon	Ravnica: City of Guilds
@@ -86,7 +86,7 @@ Perplex	Dimir	Blue/Black	Common	Ravnica: City of Guilds
 Phytohydra	Selesnya	White/Green	Rare	Ravnica: City of Guilds
 Pollenbright Wings	Selesnya	White/Green	Uncommon	Ravnica: City of Guilds
 Psychic Drain	Dimir	Blue/Black	Uncommon	Ravnica: City of Guilds
-Putrefy	Golgari	Black/Green	Uncommon,Uncommon	Ravnica: City of Guilds	Dragon's Maze
+Putrefy	Golgari	Black/Green	Uncommon,Uncommon	Ravnica: City of Guilds,Dragon's Maze
 Rally the Righteous	Boros	White/Red	Common	Ravnica: City of Guilds
 Razia, Boros Archangel	Boros	White/Red	Rare	Ravnica: City of Guilds
 Razia's Purification	Boros	White/Red	Rare	Ravnica: City of Guilds
@@ -97,7 +97,7 @@ Selesnya Evangel	Selesnya	White/Green	Common	Ravnica: City of Guilds
 Selesnya Sagittars	Selesnya	White/Green	Uncommon	Ravnica: City of Guilds
 Shambling Shell	Golgari	Black/Green	Common	Ravnica: City of Guilds
 Sisters of Stone Death	Golgari	Black/Green	Rare	Ravnica: City of Guilds
-Skyknight Legionnaire	Boros	White/Red	Common,Common	Ravnica: City of Guilds	Gatecrash
+Skyknight Legionnaire	Boros	White/Red	Common,Common	Ravnica: City of Guilds,Gatecrash
 Sunhome Enforcer	Boros	White/Red	Uncommon	Ravnica: City of Guilds
 Szadek, Lord of Secrets	Dimir	Blue/Black	Rare	Ravnica: City of Guilds
 Thundersong Trumpeter	Boros	White/Red	Common	Ravnica: City of Guilds
@@ -131,14 +131,14 @@ Boros Garrison	Boros	-	Common	Ravnica: City of Guilds
 Dimir Aqueduct	Dimir	-	Common	Ravnica: City of Guilds
 Duskmantle, House of Shadow	Dimir	-	Uncommon	Ravnica: City of Guilds
 Golgari Rot Farm	Golgari	-	Common	Ravnica: City of Guilds
-Overgrown Tomb	Golgari	-	Rare,Rare	Ravnica: City of Guilds	Return to Ravnica
-Sacred Foundry	Boros	-	Rare,Rare	Ravnica: City of Guilds	Gatecrash
+Overgrown Tomb	Golgari	-	Rare,Rare	Ravnica: City of Guilds,Return to Ravnica
+Sacred Foundry	Boros	-	Rare,Rare	Ravnica: City of Guilds,Gatecrash
 Selesnya Sanctuary	Selesnya	-	Common	Ravnica: City of Guilds
 Sunhome, Fortress of the Legion	Boros	-	Uncommon	Ravnica: City of Guilds
 Svogthos, the Restless Tomb	Golgari	-	Uncommon	Ravnica: City of Guilds
-Temple Garden	Selesnya	-	Rare,Rare	Ravnica: City of Guilds	Return to Ravnica
+Temple Garden	Selesnya	-	Rare,Rare	Ravnica: City of Guilds,Return to Ravnica
 Vitu-Ghazi, the City-Tree	Selesnya	-	Uncommon	Ravnica: City of Guilds
-Watery Grave	Dimir	-	Rare,Rare	Ravnica: City of Guilds	Gatecrash
+Watery Grave	Dimir	-	Rare,Rare	Ravnica: City of Guilds,Gatecrash
 Absolver Thrull	Orzhov	White	Common	Guildpact
 Belfry Spirit	Orzhov	White	Uncommon	Guildpact
 Benediction of Moons	Orzhov	White	Common	Guildpact
@@ -185,8 +185,8 @@ Castigate	Orzhov	White/Black	Common	Guildpact
 Cerebral Vortex	Izzet	Blue/Red	Rare	Guildpact
 Conjurer's Ban	Orzhov	White/Black	Uncommon	Guildpact
 Culling Sun	Orzhov	White/Black	Rare	Guildpact
-Electrolyze	Izzet	Blue/Red	Uncommon,Uncommon	Guildpact	Modern Masters
-Feral Animist	Gruul	Red/Green	Uncommon,Uncommon	Guildpact	Dragon's Maze
+Electrolyze	Izzet	Blue/Red	Uncommon,Uncommon	Guildpact,Modern Masters
+Feral Animist	Gruul	Red/Green	Uncommon,Uncommon	Guildpact,Dragon's Maze
 Gelectrode	Izzet	Blue/Red	Uncommon	Guildpact
 Ghost Council of Orzhova	Orzhov	White/Black	Rare	Guildpact
 Goblin Flectomancer	Izzet	Blue/Red	Uncommon	Guildpact
@@ -226,15 +226,15 @@ Izzet Signet	Izzet	-	Common	Guildpact
 Mizzium Transreliquat	Izzet	-	Rare	Guildpact
 Moratorium Stone	Orzhov	-	Rare	Guildpact
 Orzhov Signet	Orzhov	-	Common	Guildpact
-Godless Shrine	Orzhov	-	Rare,Rare	Guildpact	Gatecrash
+Godless Shrine	Orzhov	-	Rare,Rare	Guildpact,Gatecrash
 Gruul Turf	Gruul	-	Common	Guildpact
 Izzet Boilerworks	Izzet	-	Common	Guildpact
 Nivix, Aerie of the Firemind	Izzet	-	Uncommon	Guildpact
 Orzhov Basilica	Orzhov	-	Common	Guildpact
 Orzhova, the Church of Deals	Orzhov	-	Uncommon	Guildpact
 Skarrg, the Rage Pits	Gruul	-	Uncommon	Guildpact
-Steam Vents	Izzet	-	Rare,Rare	Guildpact	Return to Ravnica
-Stomping Ground	Gruul	-	Rare,Rare	Guildpact	Gatecrash
+Steam Vents	Izzet	-	Rare,Rare	Guildpact,Return to Ravnica
+Stomping Ground	Gruul	-	Rare,Rare	Guildpact,Gatecrash
 Azorius Herald	Azorius	White	Uncommon	Dissension
 Paladin of Prahv	Azorius	White	Uncommon	Dissension
 Proclamation of Rebirth	Azorius	White	Rare	Dissension
@@ -284,7 +284,7 @@ Cytoshape	Simic	Blue/Green	Rare	Dissension
 Dread Slag	Rakdos	Black/Red	Rare	Dissension
 Experiment Kraj	Simic	Blue/Green	Rare	Dissension
 Gobhobbler Rats	Rakdos	Black/Red	Common	Dissension
-Grand Arbiter Augustin IV	Azorius	White/Blue	Rare,Rare	Dissension	Modern Masters
+Grand Arbiter Augustin IV	Azorius	White/Blue	Rare,Rare	Dissension,Modern Masters
 Hellhole Rats	Rakdos	Black/Red	Uncommon	Dissension
 Isperia the Inscrutable	Azorius	White/Blue	Rare	Dissension
 Jagged Poppet	Rakdos	Black/Red	Uncommon	Dissension
@@ -305,7 +305,7 @@ Rakdos the Defiler	Rakdos	Black/Red	Rare	Dissension
 Simic Sky Swallower	Simic	Blue/Green	Rare	Dissension
 Sky Hussar	Azorius	White/Blue	Uncommon	Dissension
 Swift Silence	Azorius	White/Blue	Rare	Dissension
-Trygon Predator	Simic	Blue/Green	Uncommon,Uncommon	Dissension	Modern Masters
+Trygon Predator	Simic	Blue/Green	Uncommon,Uncommon	Dissension,Modern Masters
 Twinstrike	Rakdos	Black/Red	Uncommon	Dissension
 Vigean Hydropon	Simic	Blue/Green	Common	Dissension
 Vigean Intuition	Simic	Blue/Green	Uncommon	Dissension
@@ -348,9 +348,9 @@ Rakdos Signet	Rakdos	-	Common	Dissension
 Simic Signet	Simic	-	Common	Dissension
 Walking Archive	Azorius	-	Rare	Dissension
 Azorius Chancery	Azorius	-	Common	Dissension
-Blood Crypt	Rakdos	-	Rare,Rare	Dissension	Return to Ravnica
-Breeding Pool	Simic	-	Rare,Rare	Dissension	Gatecrash
-Hallowed Fountain	Azorius	-	Rare,Rare	Dissension	Return to Ravnica
+Blood Crypt	Rakdos	-	Rare,Rare	Dissension,Return to Ravnica
+Breeding Pool	Simic	-	Rare,Rare	Dissension,Gatecrash
+Hallowed Fountain	Azorius	-	Rare,Rare	Dissension,Return to Ravnica
 Novijen, Heart of Progress	Simic	-	Uncommon	Dissension
 Prahv, Spires of Order	Azorius	-	Uncommon	Dissension
 Rakdos Carnarium	Rakdos	-	Common	Dissension
@@ -483,12 +483,12 @@ Golgari Keyrune	Golgari	-	Uncommon	Return to Ravnica
 Izzet Keyrune	Izzet	-	Uncommon	Return to Ravnica
 Rakdos Keyrune	Rakdos	-	Uncommon	Return to Ravnica
 Selesnya Keyrune	Selesnya	-	Uncommon	Return to Ravnica
-Azorius Guildgate	Azorius	-	Common,Common	Return to Ravnica	Dragon's Maze
-Golgari Guildgate	Golgari	-	Common,Common	Return to Ravnica	Dragon's Maze
+Azorius Guildgate	Azorius	-	Common,Common	Return to Ravnica,Dragon's Maze
+Golgari Guildgate	Golgari	-	Common,Common	Return to Ravnica,Dragon's Maze
 Grove of the Guardian	Selesnya	-	Rare	Return to Ravnica
-Izzet Guildgate	Izzet	-	Common,Common	Return to Ravnica	Dragon's Maze
-Rakdos Guildgate	Rakdos	-	Common,Common	Return to Ravnica	Dragon's Maze
-Selesnya Guildgate	Selesnya	-	Common,Common	Return to Ravnica	Dragon's Maze
+Izzet Guildgate	Izzet	-	Common,Common	Return to Ravnica,Dragon's Maze
+Rakdos Guildgate	Rakdos	-	Common,Common	Return to Ravnica,Dragon's Maze
+Selesnya Guildgate	Selesnya	-	Common,Common	Return to Ravnica,Dragon's Maze
 Basilica Guards	Orzhov	White	Common	Gatecrash
 Blind Obedience	Orzhov	White	Rare	Gatecrash
 Boros Elite	Boros	White	Uncommon	Gatecrash
@@ -622,11 +622,11 @@ Dimir Keyrune	Dimir	-	Uncommon	Gatecrash
 Gruul Keyrune	Gruul	-	Uncommon	Gatecrash
 Orzhov Keyrune	Orzhov	-	Uncommon	Gatecrash
 Simic Keyrune	Simic	-	Uncommon	Gatecrash
-Boros Guildgate	Boros	-	Common,Common	Gatecrash	Dragon's Maze
-Dimir Guildgate	Dimir	-	Common,Common	Gatecrash	Dragon's Maze
-Gruul Guildgate	Gruul	-	Common,Common	Gatecrash	Dragon's Maze
-Orzhov Guildgate	Orzhov	-	Common,Common	Gatecrash	Dragon's Maze
-Simic Guildgate	Simic	-	Common,Common	Gatecrash	Dragon's Maze
+Boros Guildgate	Boros	-	Common,Common	Gatecrash,Dragon's Maze
+Dimir Guildgate	Dimir	-	Common,Common	Gatecrash,Dragon's Maze
+Gruul Guildgate	Gruul	-	Common,Common	Gatecrash,Dragon's Maze
+Orzhov Guildgate	Orzhov	-	Common,Common	Gatecrash,Dragon's Maze
+Simic Guildgate	Simic	-	Common,Common	Gatecrash,Dragon's Maze
 Boros Mastiff	Boros	White	Common	Dragon's Maze
 Lyev Decree	Azorius	White	Common	Dragon's Maze
 Scion of Vitu-Ghazi	Selesnya	White	Rare	Dragon's Maze

@@ -32,7 +32,7 @@ _.each(SETS, function (set) {
 });
 
 _.each(cards, function(card) {
-  let sets = card.sets.join('\t');
+  let sets = card.sets.join(',');
   let rarity = card.rarity.join(',');
   console.log(`${card.name}\t${card.watermark}\t${card.colors}\t${rarity}\t${sets}`);
 });
